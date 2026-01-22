@@ -12,3 +12,11 @@
 .photo1{
     background-image:url("imgLoc.jpg");
 }
+.h1{
+    size: 45px;
+    color: gray;
+  }
+  .h2{
+    color: gray;
+    size: 35px;
+  }

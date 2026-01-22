@@ -26,3 +26,11 @@
 .image5{
     grid-area:pic5;
 }
+.h1{
+    size: 45px;
+    color: gray;
+  }
+  .h4{
+    color: gray;
+    size: 35px;
+  }
