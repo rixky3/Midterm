@@ -1,0 +1,23 @@
+.mission{
+    position: absolute; 
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 5px;
+    text-align: center;
+    
+  }
+  .h2{
+    size: 45px;
+    color: gray;
+  }
+  .h4{
+    color: gray;
+    size: 35px;
+  }
+.img{
+    position: fixed;
+    box-shadow: 700px 1200px;
+}
+.backImage{
+  background-image:url("background.jpg");
+}
